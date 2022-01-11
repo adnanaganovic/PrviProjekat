@@ -1,4 +1,4 @@
-package six.Beverage;
+package six.e;
 
 import six.Beverage;
 
