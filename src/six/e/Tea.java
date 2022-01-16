@@ -1,9 +1,9 @@
 package six.e;
 
-import six.Beverage;
-
 public class Tea extends Beverage {
-    public Tea(String name) {
+
+
+    public Tea() {
         super("Čaj");
     }
 

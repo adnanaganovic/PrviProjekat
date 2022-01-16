@@ -1,4 +1,4 @@
-package six;
+package six.e;
 
 public abstract class Beverage {
 
@@ -11,6 +11,8 @@ public abstract class Beverage {
     public abstract double cost();
 
     public abstract void drink();
+
+    public String getName(){return name;}
 
 
 

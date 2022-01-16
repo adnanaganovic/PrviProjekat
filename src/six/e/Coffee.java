@@ -1,11 +1,13 @@
 package six.e;
 
-import six.Beverage;
-
 public class Coffee extends Beverage {
 
-    public Coffee(String name) {
-        super(name);
+    public Coffee (String name) {
+        super("Kafa");
+    }
+
+    public Coffee() {
+        super("Kafa");
     }
 
     @Override
